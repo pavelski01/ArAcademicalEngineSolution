@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="InfoNarzutZachowanie">
+    <Position X="1.75" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAEAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\InfoNarzutZachowanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NadzorcaZdarzen">
+    <Position X="6.75" Y="8.25" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAACAAAQBAAAAEAAAAAAAAAAAAAAQAACEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\NadzorcaZdarzen.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="DostepnoscKamery" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SterownikZdarzen">
+    <Position X="0.75" Y="0.5" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAEAAAAAAAAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\SterownikZdarzen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.DostepnoscKamery">
+    <Position X="6.5" Y="3" Width="6.5" />
+    <TypeIdentifier>
+      <HashCode>AZAEAAAAAGAIAAACAEAICAEAIAAAAABAAAAAQEAADAA=</HashCode>
+      <FileName>Assets\Scripts\DostepnoscKamery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Komunikator">
+    <Position X="7" Y="0.5" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABQAAAAAAAAAAAAAAAAABACCAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Komunikator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="DostepnoscKamery" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Assets.Scripts.ZrzutEkranu">
+    <Position X="2.5" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QACAAAAAAAAEQAAAAAAAAAACAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ZrzutEkranu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="DostepnoscKamery" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
